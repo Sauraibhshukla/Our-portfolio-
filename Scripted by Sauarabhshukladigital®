@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saurabh Shukla Digital</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: navy;
+            color: #fff;
+            padding: 10px 10px;
+            text-align: left;
+        }
+        section {
+            padding: 10px;
+        }
+        h1 {
+            margin: 0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            padding: 3px 0;
+            background: navy;
+            color: white;
+            position: ;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Saurabhshukladigital</h1>
+</header>
+   
+<span style="font-size: 20px ;color: "navy">Our</span> <span style="color:red">aim</span>
+ 
+<span style="color:blue">is</span>
+<span style="color:orange"> to </span>
+<span style="color:green">  humanize </span>
+<span style="color:blue">technology</span>
+  
+<section>
+    <h1>About Me</h1>
+    <p>I'm interested in information technology and enjoy creating webpages.</p>
+    <p1>Our expertise in </p1>
+   
+<ul type="circle">
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+  <li>SQL</li>
+</ul>
+<span style="font-size:50px; color:red">D</span><p3>esigned by Saurabh shukla</h2>
+<iframe src="https://aeverse335.blogspot.com/2024/08/your-brain-is-overloaded-with.html" "width:300" ></iframe>
+   !
+    
+    
+    
+  !  
+    <body>
+  <h1>
+   Developing projects
+  </h1>
+  <table border="2" cellpadding=4>
+    <caption> Books and Authors Details</caption>
+    <tr bgcolor="skyblue">
+      <th>Category</th>  
+      <th>Books</th>
+      <th>Authors</th> 
+     
+      
+    </tr>
+    <tr>
+      <td rowspan="2" bgcolor="green">Friction</td>
+      <td>Make things Easier</td>
+      <td>Roger Dooley</td>
+     </tr>
+    <tr>
+      <td>The Alchemist</td>
+      <td>Paulo Coelho</td>
+        </tr>
+    <tr>
+      <td rowspan="2"  bgcolor="green">Self-help</td>
+      <td>The 10x rule</td>
+      <td>Grant Cardone</td>
+            <tr>
+      <td>The one thing</td>
+      <td>Papason</td>
+       </tr>
+       <tr>
+      <td rowspan="2"  bgcolor="green">Marketing</td>
+      <td>Dotcom secrects</td>
+      <td>Russels bronson</td>
+             <tr>
+       </table> </body>
+        
+        
+ <body bgcolor= >
+  <font color=brown size=5>Emerging Technology</font>
+  <font size= 3 color=black>
+    <ul type =disc>
+      <li> Artificial Intelligence</li>
+        <li>cryptocurrency
+          
+        <li>Cloud computing
+          <li> Quantum computing</li>
+            
+          <li>Edge computing
+    </ul>
+  </font>
+</body>
+        <body>
+  <header>
+    <h1>aecloud</h1>
+  </header>
+
+  <section>
+    <article>
+      <h2>Article 1</h2>
+      <p>This is the content of article 1.</p>
+    </article>
+    <main>
+    
+    <article>
+      <h2>Article 2</h2>
+      <p>This is the content of article 2.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy; aecloud Copyright 2024</p>
+  </footer>
+</body>
+    <body>
+  <h1>
+    IT Personalities
+  </h1>
+  <hr>
+  <dt> <b>Pranav Mistry</b></dt>
+  <dd><ul> Pranav mistry, is a computer scientist and investor,the Global Vice President of Research at Samsung and the head of Think Tank Team(best known for his work on Sixth sense)
+    The World Economic forum had honoured misery as one of he young Global Leader in 2013.
+  </ul></dd>
+  <dl>
+    <dt> <b> Narayan Murty</b>
+      <dd> Narayan Murty,the co-founder of infosys Technologies,one of the well-known software companies in the world.He remained the CEO of Infosys for twenty years.</dd>
+  </dl>
+</body>
+        <html>
+        <head>
+         <style>
+    .mi
+  {
+    background-color:white;
+    font-size:20px;
+    padding:5px;
+    margin:0px;
+    color:green;
+    
+   
+    text-align:center;
+    
+  }
+  </style>
+</head>
+
+  
+  <div class="mi">
+    <body>
+       <body bgcolor= "green"
+    
+<h1>Mental challenge</h1>
+<p>Can you write using your phone <b>X to the power y</b/><p>
+  <p> y= Sinx= x<sup>2</sup></p>
+  <p>The formula of Water is H<sub>2<sup>O</sup></p>
+ <p>On the 4<sup>th</sup> of September you will learn  about E=MC<sup>2</sup>.</p>
+<p>The amount of CO<sub>2</sub> in the atmosphere  grew by 2ppm in 2009<sub>1</sub>.</p>
+</body>
+  </div>
+   </html>    
+        
+        <body>
+<div class="container">
+  <form class="glassmorphism-form">
+    <h2>Sign Up</h2>
+    <div class="input-group">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" required>
+    </div>
+    <div class="input-group">
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+    <div class="input-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required>
+    </div>
+    <button type="submit">Sign Up</button>
+  </form>
+</div>
+</body>
+
+    <p>website:<a href="https://www.instagram.com/saurabhshukladigital/p/C8Dnj-lS5Aj/"><img src="link"> </a></p>
+</section>
+    <section>
+        <h1>Connect with me</h1>
+<p> You can find me on Instagram: <a href="https://www.instagram.com/saurabhshukladigital/p/C8Dnj-lS5Aj/" target="_blank">Saurabh Shukla Digital</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Saurabh Shukla Digital</p>
+</footer>
+</main>
+</body>
+</html>
+
